@@ -5,6 +5,8 @@
  */
 'use strict';
 
+const pi = 3.14;
+
 module.exports = {
   extends: ['cz'],
   rules: {
